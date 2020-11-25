@@ -15,6 +15,7 @@ This module uses Borland C ++ and C ++ (low level language). to run it it is rec
 ## Update and Upgrade
 1. 24 Nov 2020 <b>Upload encounter-01</b>
 2. 25 Nov 2020 <b>Upload encounter-02</b>
+3. 26 Nov 2020 <b>Upgrade encounter-02</b>
 
 ## Thanks
 - Mr. lecturer (I forgot his name) 😹 
